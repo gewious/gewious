@@ -1,16 +1,14 @@
-### Hi there 👋
+![backg](https://user-images.githubusercontent.com/110345375/211574318-265beb10-14ce-41ed-9817-ba04126f3d68.png)
 
-<!--
-**gewious/gewious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">My skills:</h2>
+
+<div align="center"><img align="center" src="https://img.shields.io/badge/HTML-fa485a?style=for-the-badge&logo=html5&logoColor=white"/><img align="center" src="https://img.shields.io/badge/CSS-35b7fc?style=for-the-badge&logo=CSS3&logoColor=white"/><img align="center" src="https://img.shields.io/badge/Sass-ed74e1?style=for-the-badge&logo=Sass&logoColor=white"/><img align="center" src="https://img.shields.io/badge/JavaScript-f7f55c?style=for-the-badge&logo=JavaScript&logoColor=black"/></div>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gewious&show_icons=true&theme=dracula"/></div>
+<br>
+
+
+
